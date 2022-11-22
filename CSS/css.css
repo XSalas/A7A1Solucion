@@ -1,0 +1,30 @@
+* {
+	font-family: Roboto;
+}
+
+
+h1 {
+	color: green;
+	margin-left: 30%;
+	text-decoration: underline;
+}
+a:link {
+	text-decoration: none;
+}
+body {
+	background-color: #65FF3B;
+}
+p {
+	color: green;
+}
+div {
+	margin-left: 20%;
+	margin-right: 20%;
+}
+h3 {
+	color: green;
+}
+h2 {
+	color: green;
+}
+
